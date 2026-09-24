@@ -5,4 +5,4 @@ def validate_name(name):
         return False
     if not name.isalpha():
         return False
-    return True
+    return str
